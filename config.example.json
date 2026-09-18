@@ -1,0 +1,14 @@
+{
+  "shop_name": "Szalay Barkács Webáruház",
+  "shop_tagline": "Minőségi szerszámok és kiegészítők szakembereknek",
+  "currency": "HUF",
+  "reference_url": "http://edger.nhely.hu/",
+  "excel_path": "termekek.xlsx",
+  "image_folder": "kepek",
+  "output_directory": "./Webshop_Output",
+  "generate_webshop": true,
+  "generate_pdf_catalog": true,
+  "enable_ai_vision_bridge": true,
+  "enable_b2b_wholesale": true,
+  "default_image_extension": "webp"
+}
