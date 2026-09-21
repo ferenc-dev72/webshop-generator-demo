@@ -164,9 +164,10 @@ This solution replaces runtime CMS bloat with a compile-time workflow:
 ---
 
 ## 👤 Author & Contact
-- **Author:** A Neved
-- **Production Reference:** [http://edger.nhely.hu/](http://edger.nhely.hu/)
-- **GitHub:** [@felhasznaloneved](https://github.com/)
+- **Author:** Mészáros Ferenc (Mérnök-Informatikus / Full-Stack Fejlesztő)
+- **Email:** [mfera36@gmail.com](mailto:mfera36@gmail.com)
+- **GitHub:** [@ferenc-dev72](https://github.com/ferenc-dev72)
+- **Live Production Reference:** [http://edger.nhely.hu/](http://edger.nhely.hu/)
 
 
 ---
@@ -320,7 +321,8 @@ Ez a generátor rendszerszinten oldja meg a problémát:
 ---
 
 ## 👤 Készítő & Elérhetőség
-- **Fejlesztő:** A Neved
-- **Portfólió Éles Referencia:** [http://edger.nhely.hu/](http://edger.nhely.hu/)
-- **GitHub:** [@felhasznaloneved](https://github.com/)
+- **Készítette:** Mészáros Ferenc (Mérnök-Informatikus / Full-Stack Fejlesztő)
+- **Email:** [mfera36@gmail.com](mailto:mfera36@gmail.com)
+- **GitHub:** [@ferenc-dev72](https://github.com/ferenc-dev72)
+- **Élő Webshop referencia:** [http://edger.nhely.hu/](http://edger.nhely.hu/)
 
