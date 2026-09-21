@@ -102,6 +102,25 @@ This solution replaces runtime CMS bloat with a compile-time workflow:
 > The functional live deployment can be verified on the production server: **[http://edger.nhely.hu/](http://edger.nhely.hu/)**
 
 ---
+## System Screenshots
+
+### 1. Desktop Configuration & Generator Utility (Python)
+*Desktop tool for automated catalog and webshop generation, featuring automated export workflows, SMTP mailer configuration, and one-click local PHP test server execution:*
+
+![Desktop Generator Utility](screenshots/generator-desktop-gui.png)
+
+### 2. Generated E-Commerce Storefront & Admin Dashboard (PHP / MySQL / JS)
+*Overview of the generated responsive e-commerce storefront and its comprehensive backend administration suite:*
+
+![Storefront Overview](screenshots/webshop.png)
+
+![Admin Dashboard - Overview](screenshots/admin_vezerlopult.png)
+
+![Admin Control Panel - Core Engine](screenshots/admin_gephaz.png)
+
+![Admin Interface - Branding & Appearance](screenshots/admin_arculat.png)
+
+![Admin Settings - Store Configuration](screenshots/admin_beallitasok.png)
 
 ## 🛠️ Technology Stack
 
